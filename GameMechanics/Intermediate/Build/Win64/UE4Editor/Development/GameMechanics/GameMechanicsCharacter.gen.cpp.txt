@@ -1,0 +1,9 @@
+A:\Artur\Documents\2.Repos\GameMechanics\Intermediate\Build\Win64\UE4Editor\Development\GameMechanics\Definitions.GameMechanics.h
+A:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+A:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+A:\Artur\Documents\2.Repos\GameMechanics\Source\GameMechanics/GameMechanicsCharacter.h
+A:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+A:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+A:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+A:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+a:\artur\documents\2.repos\gamemechanics\intermediate\build\win64\ue4editor\inc\gamemechanics\GameMechanicsCharacter.generated.h

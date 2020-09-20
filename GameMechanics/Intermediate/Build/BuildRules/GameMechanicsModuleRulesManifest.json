@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"A:\\Artur\\Documents\\2.Repos\\GameMechanics\\Source\\GameMechanics\\GameMechanics.Build.cs",
+		"A:\\Artur\\Documents\\2.Repos\\GameMechanics\\Source\\GameMechanics.Target.cs",
+		"A:\\Artur\\Documents\\2.Repos\\GameMechanics\\Source\\GameMechanicsEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.1"
+}

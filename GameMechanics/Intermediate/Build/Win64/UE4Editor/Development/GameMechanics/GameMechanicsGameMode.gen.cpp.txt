@@ -1,0 +1,9 @@
+A:\Artur\Documents\2.Repos\GameMechanics\Intermediate\Build\Win64\UE4Editor\Development\GameMechanics\Definitions.GameMechanics.h
+A:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+A:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+A:\Artur\Documents\2.Repos\GameMechanics\Source\GameMechanics/GameMechanicsGameMode.h
+A:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+A:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+A:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+A:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+a:\artur\documents\2.repos\gamemechanics\intermediate\build\win64\ue4editor\inc\gamemechanics\GameMechanicsGameMode.generated.h

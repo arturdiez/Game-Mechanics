@@ -1,0 +1,2 @@
+A:\Artur\Documents\2.Repos\GameMechanics\Intermediate\Build\Win64\UE4Editor\Development\GameMechanics\Definitions.GameMechanics.h
+a:\artur\documents\2.repos\gamemechanics\source\gamemechanics\GameMechanics.h

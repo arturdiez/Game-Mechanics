@@ -1,0 +1,13 @@
+A:\Artur\Documents\2.Repos\GameMechanics\Intermediate\Build\Win64\UE4Editor\Development\GameMechanics\Definitions.GameMechanics.h
+a:\artur\documents\2.repos\gamemechanics\source\gamemechanics\GameMechanicsGameMode.h
+A:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+A:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+A:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+A:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+A:\Artur\Documents\2.Repos\GameMechanics\Intermediate\Build\Win64\UE4Editor\Inc\GameMechanics\GameMechanicsGameMode.generated.h
+a:\artur\documents\2.repos\gamemechanics\source\gamemechanics\GameMechanicsCharacter.h
+A:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+A:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+A:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+A:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+A:\Artur\Documents\2.Repos\GameMechanics\Intermediate\Build\Win64\UE4Editor\Inc\GameMechanics\GameMechanicsCharacter.generated.h

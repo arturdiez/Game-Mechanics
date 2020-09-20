@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GameMechanics",
+			"Path": "A:\\Artur\\Documents\\2.Repos\\GameMechanics\\Source\\GameMechanics.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GameMechanicsEditor",
+			"Path": "A:\\Artur\\Documents\\2.Repos\\GameMechanics\\Source\\GameMechanicsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
